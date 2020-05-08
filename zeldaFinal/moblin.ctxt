@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=moblin
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ moblin\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=moblin()
+comment10.params=
+comment10.target=void\ checkM10()
+comment11.params=
+comment11.target=void\ checkD1()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ remove()
+comment4.params=
+comment4.target=void\ checkM1()
+comment5.params=
+comment5.target=void\ checkM2()
+comment6.params=
+comment6.target=void\ checkM3()
+comment7.params=
+comment7.target=void\ checkM7()
+comment8.params=
+comment8.target=void\ checkM8()
+comment9.params=
+comment9.target=void\ checkM9()
+numComments=12

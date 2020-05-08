@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Heart2
+comment0.text=\r\n\ Handles\ all\ the\ file\ reading\ and\ writing\ and\ sets\ up\ the\ transition\ from\ the\ game\ menus\ to\ the\ actual\ game\r\n\ \r\n\ @author\ Nikola\ Soldatovic\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ act\ class\ controls\ the\ movement\ of\ the\ heart\ based\ on\ the\ keys\ the\ player\ presses\r\n\ It\ also\ checks\ whether\ there\ have\ been\ any\ previous\ save\ files\r\n\ \r\n
+comment2.params=
+comment2.target=void\ selected()
+comment2.text=\r\n\ Depending\ on\ the\ location\ picked\ by\ the\ player\ it\ will\ choose\ between\ player\ 1-3\r\n\ It\ will\ then\ create\ a\ file\ based\ on\ location\ of\ the\ heart\ in\ relation\ to\ the\ 3\ links\ on\ the\ screen\ \r\n\ After\ that\ it\ will\ allow\ the\ player\ to\ create\ a\ name\ for\ his/her\ character\ (the\ letters\ used\ are\ displayed\ on\ the\ screen\ as\ they\ are\ typed)\r\n
+comment3.params=
+comment3.target=void\ selection()
+comment3.text=\r\n\ Checks\ to\ see\ if\ any\ other\ save\ files\ are\ saved\ and\ displays\ them\ on\ the\ screen\r\n
+comment4.params=
+comment4.target=void\ Keys()
+comment4.text=\r\n\ Keeps\ track\ of\ what\ the\ player\ is\ typing\ and\ displays\ what\ is\ being\ typed\ on\ the\ screen\ by\ the\ player\r\n
+comment5.params=name
+comment5.target=void\ check(char)
+comment5.text=\r\n\ Displays\ the\ saved\ usernames\ from\ each\ of\ the\ save\ files\ onto\ the\ screen\r\n
+numComments=6

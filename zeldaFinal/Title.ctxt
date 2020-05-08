@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Title
+comment0.text=\r\n\ Plays\ the\ music\ for\ the\ entire\ game\ and\ puts\ the\ title\ screen\ up\ on\ the\ monitor\r\n\ \r\n\ @author\ Nikola\ Soldatovic\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Title()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Title.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ startmusic()
+comment2.text=\r\n\ loops\ and\ sets\ the\ volume\ for\ the\ music\r\n
+numComments=3

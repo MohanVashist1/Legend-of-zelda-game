@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=boomerang
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ boomerang\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dir1
+comment1.target=boomerang(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

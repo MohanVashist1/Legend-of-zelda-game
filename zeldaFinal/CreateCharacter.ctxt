@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CreateCharacter
+comment0.text=\r\n\ Displays\ the\ Character\ creation\ screen\ up\ on\ the\ monitor\r\n\ \r\n\ @author\ Nikola\ Soldatovic\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=CreateCharacter()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CreateCharacter.\r\n\ \r\n
+numComments=2
